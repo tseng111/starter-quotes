@@ -1,15 +1,15 @@
 <?php
 
 if (!defined('BASEPATH'))
-    exit('No direct script access allowed');
+	exit('No direct script access allowed');
 
 // the menu basics (text navbar)
 $config['menu_choices'] = array(
-    'menudata' => array(
-        array('name' => 'First', 'link' => '/first'),
-        array('name' => 'Last', 'link' => '/last'),
-        )
-    );
+	'menudata' => array(
+		array('name' => 'First', 'link' => '/first'),
+		array('name' => 'Last', 'link' => '/last'),
+	)
+);
 
 
 /*

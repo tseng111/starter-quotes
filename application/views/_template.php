@@ -1,8 +1,8 @@
 <?php
 if (!defined('APPPATH'))
-    exit('No direct script access allowed');
+	exit('No direct script access allowed');
 /**
- * view/template.php
+ * views/template.php
  *
  * Pass in $pagetitle (which will in turn be passed along)
  * and $pagebody, the name of the content view.
@@ -31,7 +31,7 @@ if (!defined('APPPATH'))
                 {content}
             </div>
             <div id="footer" class="span12">
-                Copyright &copy; 2015,  <a href="mailto:someone@somewhere.com">Me</a>.
+                Copyright &copy; 2015-2016,  <a href="mailto:someone@somewhere.com">Me</a>.
             </div>
         </div>
         <script src="/assets/js/jquery-1.11.1.min.js"></script>

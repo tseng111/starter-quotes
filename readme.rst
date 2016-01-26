@@ -1,8 +1,8 @@
-#############################
-Lab 3 Starter Webapp - Quotes
-#############################
+#######################
+Starter Webapp - Quotes
+#######################
 
-This is the starter webapp for Comp4711 Tutorial/Lab 3.
+This is the starter webapp for Tutorial ci-normal01
 
 It is purposefully broken.
 
@@ -22,7 +22,6 @@ Project Folders
 /application    the obvious
 /assets         CSS, javascript & media
 /data           some pictures to use
-/scripts        SQL script for the database
 
 Assumed: CI system folder is in ../system3
 
@@ -34,18 +33,18 @@ License
 *******
 
 Please see the `license
-agreement <http://codeigniter.com/userguide3/license.html>`_
+agreement <https://codeigniter.com/userguide3/license.html>`_
 
 *********
 Resources
 *********
 
--  `Informational website <http://codeigniter.com/>`_
+-  `Informational website <https://codeigniter.com/>`_
 -  `Source code repo <https://github.com/bcit-ci/CodeIgniter/>`_
--  `User Guide <http://codeigniter.com/userguide3/>`_
+-  `User Guide <https://codeigniter.com/userguide3/>`_
 -  `Community Forums <https://forum.codeigniter.com/>`_
 -  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki/>`_
--  `Community IRC <http://codeigniter.com/irc>`_
+-  `Community IRC <https://codeigniter.com/irc>`_
 
 ***************
 Acknowledgement
