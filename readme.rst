@@ -2,6 +2,13 @@
 Starter Webapp - Quotes
 #######################
 
+Team Members:
+Chih Tseng
+Eddy Lau
+Convention:
+Use Allman style notations
+
+
 This is the starter webapp for Tutorial ci-normal01
 
 It is purposefully broken.
