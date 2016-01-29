@@ -2,16 +2,18 @@
 Starter Webapp - Quotes
 #######################
 
+**************
 Team Members:
+**************
 Chih Tseng
-{
-Checking In
-}
 
 Eddy Lau
-Convention:
-Use Allman style notations
 
+**************
+Convention:
+**************
+
+Use Allman style notations
 
 This is the starter webapp for Tutorial ci-normal01
 
