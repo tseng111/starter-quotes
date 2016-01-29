@@ -1,11 +1,15 @@
 #######################
 Starter Webapp - Quotes
 #######################
-
+**************
 Team Members:
+**************
 Chih Tseng
 Eddy Lau
+**************
 Convention:
+**************
+
 Use Allman style notations
 
 
